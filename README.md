@@ -93,3 +93,14 @@ scripts/build-images.mjs   ← portrait/share-image pipeline (sharp)
 - **Opening:** Enter or Esc skips it.
 - **Play Intro:** Space pauses, ← and → change slides, Esc closes.
 - **Project and resume overlays:** Esc closes.
+
+## Credits and Attribution
+
+This portfolio is a customised version of the original project created by **Sushmita Dasari**.
+
+- Original repository: https://github.com/Sushmitadasari/Portfolio_series
+- Original author: Sushmita Dasari
+- Customisation: Personal profile, education, skills, projects, photograph and resume updated by Thirunagari Nanda Kumar.
+- The original functionality, components, animations and design have been retained.
+
+Published with permission from the original author. Special thanks to Sushmita Dasari for creating and sharing this project.
